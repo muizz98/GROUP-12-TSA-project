@@ -4,8 +4,8 @@ An interactive, responsive website for exploring the eight planets of our solar 
 
 Built with **HTML, CSS, and vanilla JavaScript** as a group frontend project.
 
-Live Demo: [https://your-deployment-link.com]
-Githug Repo: (https://your-deployment-link.com)
+Live Demo: [https://planetaryfacts-grp12.netlify.app]
+Githug Repo: (https://https://github.com/princeolalacious/TSA-GROUP-12)
 
                         FEATURES
 
@@ -64,7 +64,7 @@ Githug Repo: (https://your-deployment-link.com)
 
 ## 🌐 Live Deployment
 
-The project is deployed at: \*\*[https://your-deployment-link.com]
+The project is deployed at: \*\*[https://planetaryfacts-grp12.netlify.app]
 
 ## 📄 License
 
